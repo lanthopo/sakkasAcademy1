@@ -156,7 +156,7 @@ fona.setGPRSNetworkSettings(F("internet"), F(""), F(""));
 lcd.setCursor(0, 0);
 lcd.print("EKPEDEYT.  SAKKA");
 lcd.setCursor(0, 1);
-lcd.print(" Hackathon 2018 ");
+lcd.print(" EELLAK 2020 ");
 Serial.println(F("z1"));
 if(!bmp280.init())
 {
